@@ -1,2 +1,3 @@
 DevOps training Git.
 Git commit from my local repository.
+Local merge.
